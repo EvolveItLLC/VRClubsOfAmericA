@@ -1,0 +1,66 @@
+Problem Statement
+VR Club addresses physical inequities within highschools by enabling students to co-create innovative virtual reality experiences with their teachers, ensuring equal access to advanced scientific learning opportunities.
+People
+Student led, Community Built
+
+Main target: Students, teachers, and communities without access to advanced science curriculum and spaces
+Title 1 school communities
+
+Secondary target: Students, teachers, and communities who want to learn and build with the newest technologies
+High resource school communities
+Reason
+Every student deserves equal access to dream, explore, and create, no matter their circumstances
+
+
+
+Purpose (Short)
+VR Club: We build! Students building virtual realities; students building students; students building themselves.
+Core Values
+All Inclusive: Our goal at VR club is to be all inclusive. All students are welcome to come, learn and share! 
+Growth: We want students to grow and feel empowered through technologies.
+Creativity: Students should have freedom to explore their ideas and be creative!
+Safe to fail: There are no grades. We want to foster a safe place where students can feel like they can fail, mess up and get back up again.
+Community Focused: We aim to create a collaborative environment where students can collaborate rather than compete. We want what we create to be disseminated to other schools, inspire other students, and build up the community.
+Joy: We want to create a community and safe place where students enjoy each other’s company, developing, and help solve problems.
+Hope: regardless of background, education level, circumstance, everyone is capable of creating! Everyone is able to create change!
+Value Driven, Process Oriented: Value driven decisions, process oriented behavior. We don’t focus on the end result, but on what it took to get there.
+
+Pillars
+All inclusiveness: won’t turn anyone away
+Only the best for our students: won’t compromise on quality of education
+Must be self reliant: creating self-reliant sustainable systems in schools
+
+Types of Schools
+For future: Design schools and Development schools. Design schools can be paired with Development schools. One group focuses on art/ui/story telling, the other focuses on coding it up. Play to a group’s strengths.
+Development Schools (Headsets available)
+Focused on science and technology
+More of the students tend to lean towards STEM
+Equipped with VR compatible computers
+Equipped with VR headsets
+Development Schools (Headsets not available)
+Focused on science and technology
+More of the students tend to lean towards STEM
+May have many powerful computers on campus and can develop for VR
+May not necessarily have VR capacity.
+Design Schools (Headsets available)
+Focused on arts/ theater
+More of the students tend to learn towards art based subjects
+Writing, art, theater
+Equipped with VR compatible computers
+Equipped with VR headsets
+Design Schools (Headsets not available)
+Focused on arts/ theater
+More of the students tend to learn towards art based subjects
+Writing, art, theater
+May have many computers on campus and can develop for VR
+May not necessarily have VR capacity.
+
+
+Purpose (Long)
+At the Virtual Reality Science Club, the purpose is to foster innovation, curiosity, and enhanced learning experiences through the development and integration of augmented reality science modules into the existing curriculum. We aim to create an engaging and immersive environment where students can explore scientific concepts, conduct experiments, and visualize abstract theories through the power of virtual reality (VR) and augmented reality (AR) technologies.
+
+Our primary goal is to bridge the gap between traditional classroom teaching and cutting-edge technology by leveraging VR and AR to revolutionize the way students perceive and comprehend scientific subjects. By utilizing interactive simulations, virtual laboratories, and 3D models, we intend to provide students with captivating and dynamic learning opportunities that promote deeper understanding, critical thinking, and problem-solving skills. Students will be able to take ownership of their own education and co-create their learning with teachers. 
+
+Through collaborative projects, hands-on experimentation, and teamwork, the club members will have the chance to develop their creativity and technical proficiency while making valuable contributions to the education community. I believe that by empowering students to create and refine their own augmented reality science modules, we can inspire a passion for scientific exploration and ignite a lifelong love for learning.
+
+The virtual reality science club strives to equip students with the skills and knowledge necessary to navigate the rapidly evolving technological landscape, preparing them for future careers and fostering their overall personal and academic growth. By embracing the potential of augmented reality in science education, we aim to empower the next generation of innovators, problem-solvers, and leaders!

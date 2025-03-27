@@ -1,0 +1,130 @@
+Purpose:
+At the Virtual Reality Science Club, the purpose is to foster innovation, curiosity, and enhanced learning experiences through the development and integration of augmented reality science modules into the existing curriculum. We aim to create an engaging and immersive environment where students can explore scientific concepts, conduct experiments, and visualize abstract theories through the power of virtual reality (VR) and augmented reality (AR) technologies.
+
+Our primary goal is to bridge the gap between traditional classroom teaching and cutting-edge technology by leveraging VR and AR to revolutionize the way students perceive and comprehend scientific subjects. By utilizing interactive simulations, virtual laboratories, and 3D models, we intend to provide students with captivating and dynamic learning opportunities that promote deeper understanding, critical thinking, and problem-solving skills. Students will be able to take ownership of their own education and co-create their learning with teachers. 
+
+Through collaborative projects, hands-on experimentation, and teamwork, the club members will have the chance to develop their creativity and technical proficiency while making valuable contributions to the education community. I believe that by empowering students to create and refine their own augmented reality science modules, we can inspire a passion for scientific exploration and ignite a lifelong love for learning.
+
+The virtual reality science club strives to equip students with the skills and knowledge necessary to navigate the rapidly evolving technological landscape, preparing them for future careers and fostering their overall personal and academic growth. By embracing the potential of augmented reality in science education, we aim to empower the next generation of innovators, problem-solvers, and leaders!
+Experiences which Omkar Built during summer internship
+Videos HERE
+Developed with Meta Quest Pro
+Omkar’s Laptop
+Timeline: 
+Work from June until July 10th. 
+Roughly a month and a couple weeks of work
+Time commitment: 8-15 hours a week
+Most of the bugs and setup, Omkar has now figured out - so for onboarding new students, it should be much smoother of a process.
+People Involved:
+Frank Liu (Computer Engineering PhD Student, mentor)
+Website/Qualifications: https://fwliu1.github.io/
+Omkar Bharath (Highschool student and club president)
+Florence Hamel (Mentor and Coordinator)
+Highschool Science Teacher (TBD)
+Highschool Computer Science Teacher (TBD)
+Broader Impact and Intellectual Merit:
+
+Students teaching students model
+Internally
+I believe in the power of co-creating education. These students have the unique opportunity to actively shape  learning experiences, fostering a sense of ownership and agency in their educational journey. 
+Through collaborative projects, discussions, and feedback loops, club members work together to design and develop augmented reality science modules that align with their interests, curiosities, and the needs of their peers. 
+This co-creation process not only deepens their understanding of scientific concepts but also hones their critical thinking, problem-solving, and communication skills.
+Members of the club become inspiring mentors for younger learners. By utilizing the augmented reality science modules they have developed, club members create engaging and interactive lessons that capture the imagination of their younger peers. They encourage exploration, curiosity, and hands-on experimentation, fostering a love for science from an early age.
+By empowering students to co-create their education and serve as teachers, we cultivate a culture of lifelong learning and leadership. Club members not only deepen their own understanding but also develop valuable teaching skills, empathy, and a sense of responsibility. 
+They inspire younger students to embrace science as a thrilling adventure, nurturing the next generation of curious and enthusiastic learners who will continue the cycle of co-creation and knowledge sharing. 
+Externally
+Through various outreach initiatives, the goal is to empower and excite other students in the area about the wonders of science. 
+Through interactive workshops, demonstrations, and presentations at neighboring schools, community events, and science fairs, where we will showcase the immersive and captivating possibilities of augmented reality in scientific exploration.
+By engaging other student peers in hands-on activities and sharing knowledge, we hope to ignite a spark of curiosity and inspire a newfound excitement for scientific discovery.
+Appearances at local science fairs, ASU events and parent/teacher conferences
+Other Benefits
+Your high school can be poised to be at the forefront of educating students on cutting-edge technology, revolutionizing the way students learn. 
+With a focus on emerging technologies such as virtual reality (VR), augmented reality (AR), and other innovative tools, students get equipped with the skills and knowledge needed to thrive in a rapidly evolving digital landscape.
+Parents will be very happy students can engage in such activities
+Very good for college applications, if the students build quality portfolios and wow college recruiters.
+
+Frank’s Thoughts:
+Reflecting on my experience in high school, much of my outlets in sports, academics were all framed as some type of competition. I felt like it set me up in a particularly toxic mindset entering college - how I had to compete to succeed in everything I did. Granted, now I’ve matured and grown past that - hopefully we can create an environment where the competitions aren’t such a prime focus and students can become empathetic leaders.
+Focus on the joy of learning. Creating safe places to fail, and simply enjoying the process of creating for creating’s sake.
+
+Omkar’s Suggestions:
+It mostly looks great, but one issue I noticed is the timing. Pretty much all clubs run one day a week for 1.5 hours after school (the only exceptions being team competitions like basketball, esports, robotics, etc). I don't think there's a rule against it, but people might be reluctant to go/send their kids to the club if this is the case (also since it's a new club).
+Original plan: After-school club 1.5 hours per day for 2 days. Issues covered above, but I think this would still be the easiest way. Change to an after school club for 1 day.
+Alternative ways:
+Wednesday Morning Enrichment: This is a single 3-hour block during school hours on Wednesdays where people can sign up for non-graded classes that are more like "workshops" (in the past this has included things like cooking, 3D printing, and theater tech). These run on a semester basis, and would mostly fit into your timeline, as well as only needing to sign "club advisor level" forms, as I understand it. Issues: might mess up your daily schedule, doesn't run on the last Wednesday of every month (as school starts late that day).
+Elective Class: The final option I can think of is to directly offer the "VR Club Experience" as an elective course. This isn't impossible to do as a non-teacher; for example, my friend's dad is a volunteer and teaches the photography elective. This would probably be the most accessible to students, and allow you the most resources (probably, I'm not sure how admin sees it). Issues: The most intensive option for your schedule, probably need a lot more verification as a teacher than a club advisor, at least a few formal assignments/grades needed for students. I'd recommend this option the least.
+Logistics
+Equipment:
+VR Headset (3-5 headsets?)
+Meta Quest 3
+Mainly for the Augmented Reality Pass Through
+OR Meta Quest Pro
+Mainly for the Augmented Reality Pass Through
+Meta Quest 2
+The pass through is barely acceptable, but good enough for development
+Could be great for VR experiences though.
+Powerful Gaming Laptop/Computer/Desktop
+Able to run Unity
+Windows (Apple computers won’t work)
+Pilot:
+Fall Semester: between 5-10 students? Depends on number of headsets and student interest
+Spring Semester (Extended Pilot):
+More advanced projects, students would pair up or form small project teams
+Advanced User interfaces, complex animations, etc
+
+Meet (Open to change, just suggestions currently): 
+1 or 2 times after school
+3-5 hour commitment in person, to use the headsets
+3-5 hours commitment outside of school learning how to code things asynchronously 
+Frank can come in person or meet over zoom for mentoring the students
+Frank can work with the science and computer science teachers to advise and learn as well
+
+Proposed Curriculum (Fall Semester):
+Week 1: What is mixed reality, VR and AR
+Create team charter, student excellence contracts, and identify what makes good teammates
+
+Week 2&3: Familiarity with Unity and development
+Introduce youtube videos of intro to unity
+
+Week 4: Getting familiarized with headsets and setup
+Omkar already has documentation of how to get these headsets set up as well as working through most of the bugs
+Just need to have students go through it
+
+Week 5: Build simple AR application using Vuforia
+Have square appear on an astronaut photo (Takes roughly an hour to do)
+
+Week 6: Build simple AR application using the headsets
+Look at demo scene
+Thing one touches thing two -> do something
+
+Week 7-9: Choose AR science experiment to build out
+Ideation -> learning the why behind doing something -> creation
+Learn a simplified product cycle
+
+Week 10-11: Refining the experience
+Group feedback phase 
+How to give constructive feedback and how to encourage students to give feedback
+Refinement period
+
+Week 12: Write simple report about what they’ve built 
+Some type of show and tell event where parents and staff can check out the work
+
+Core Competencies that Students Develop
+Participation in the Augmented Reality Science Club will empower students with a range of core competencies that are crucial for their personal and academic growth. Some of these competencies include:
+
+1. Technological Proficiency: Students will develop a command of VR and AR technologies, including hardware, software, and programming skills. They will learn to navigate and utilize cutting-edge tools, platforms, and applications, becoming adept at creating immersive and interactive experiences.
+
+2. Scientific Inquiry and Exploration: Through the club's projects and activities, students will cultivate a deep appreciation for the scientific method and develop critical thinking and problem-solving skills. They will learn to ask insightful questions, design experiments, analyze data, and draw evidence-based conclusions, fostering a lifelong curiosity for scientific exploration.
+
+3. Collaboration and Teamwork: Working in teams on co-creating augmented reality science modules, students will enhance their ability to collaborate effectively. They will learn to communicate their ideas, actively listen to others, delegate tasks, and leverage each other's strengths, fostering a supportive and cooperative environment.
+
+4. Creativity and Innovation: By designing and developing their own AR science modules, students will unleash their creativity and innovative thinking. They will learn to think outside the box, generate unique solutions, and incorporate imaginative elements into their projects, pushing the boundaries of what is possible in the realm of science education.
+
+5. Communication and Presentation Skills: Students will refine their communication abilities, both orally and in writing, as they share their knowledge and experiences with peers, educators, and younger students. They will learn to articulate complex scientific concepts in a clear and concise manner, adapting their communication style to suit different audiences.
+
+6. Leadership and Mentorship: As students co-create their education and serve as mentors to younger students, they will develop leadership skills and a sense of responsibility. They will learn to inspire and guide others, provide constructive feedback, and act as role models, fostering a culture of knowledge sharing and empowerment.
+
+7. Adaptability and Resilience: Engaging with emerging technologies requires adaptability and the ability to embrace change. Students will develop resilience as they navigate challenges, troubleshoot technical issues, and iterate on their projects. They will learn to embrace new ideas, adapt to evolving technologies, and persist in the face of obstacles.
+
+By fostering these core competencies, the Virtual Reality Science Club equips students with a diverse skill set that extends beyond the boundaries of science education. These competencies prepare students for success in the digital age, empowering them to become lifelong learners, innovative thinkers, and confident contributors to the ever-changing world around them.
+
