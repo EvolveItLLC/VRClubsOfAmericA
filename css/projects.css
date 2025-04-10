@@ -1,18 +1,19 @@
 .page-header {
-    padding: 120px 0 60px;
-    background: linear-gradient(rgba(63, 193, 201, 0.1), rgba(63, 193, 201, 0.2));
+    padding: 140px 0 60px;
+    background: linear-gradient(135deg, var(--secondary) 0%, var(--primary) 100%);
     text-align: center;
+    color: white;
 }
 
 .page-header h1 {
     font-size: 3rem;
-    margin-bottom: 1rem;
-    color: var(--secondary);
+    margin-bottom: 0;
+    color: white;
 }
 
 .page-header p {
     font-size: 1.25rem;
-    color: var(--text);
+    color: rgba(255, 255, 255, 0.9);
     max-width: 600px;
     margin: 0 auto;
 }

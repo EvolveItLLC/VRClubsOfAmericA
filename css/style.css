@@ -330,4 +330,29 @@ footer {
         max-width: 400px;
         margin: 30px auto 0;
     }
+}
+
+.mentor-section {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.compact-mentor {
+    display: inline-block;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.compact-mentor h3 {
+    font-size: 1.1rem;
+}
+
+.compact-mentor p {
+    font-size: 0.9rem;
+    margin: 0.2rem 0;
+}
+
+.compact-mentor .member-icon {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
 } 
